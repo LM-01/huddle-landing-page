@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LM-01/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://lm-01.github.io/huddle-landing-page/)
+- Solution URL: [https://github.com/LM-01/huddle-landing-page](https://github.com/LM-01/huddle-landing-page)
+- Live Site URL: [https://lm-01.github.io/huddle-landing-page/](https://lm-01.github.io/huddle-landing-page/)
 
 ### Built with
 
