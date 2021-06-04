@@ -97,7 +97,7 @@ body {
 .list {    
     width: 150px;
     margin: 0;
-    margin-right: 70px;
+    margin-right: 160px;
     display: inline-flex;
     justify-content: space-between;
     list-style: none;
@@ -184,6 +184,7 @@ body {
     .list {
         margin-left: -80%;
         margin-top: 20%;
+        margin-right: 70px;
     }
 
     .attribution {
